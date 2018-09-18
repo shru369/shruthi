@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+void main())
 {
 
     int f1,f2,f3=0,n,i;
